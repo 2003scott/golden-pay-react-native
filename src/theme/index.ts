@@ -4,14 +4,8 @@ const theme = {
     ...DefaultTheme,
     colors: {
         ...DefaultTheme.colors,
-        primary: '#6200ee',
-        accent: '#03dac4',
-        background: '#f6f6f6',
-        surface: '#ffffff',
-        text: '#000000',
-        disabled: '#f0f0f0',
-        placeholder: '#a0a0a0',
-        backdrop: '#000000',
+        primary: '#050201',
+        secondary : "#109CFF",
     },
     roundness: 4,
     fonts: {
